@@ -1,22 +1,22 @@
 # About the author and Binwell
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ4dIEM8s8PeYGDa5Lm%2F-LJ4gXtBQKbQInRu-U2O%2F-LJ4hDnPGw6B_-tq5xKD%2Fcreativecommon.png?alt=media&token=7866f67a-67b4-44fd-b441-b72b160824bd)
+![](.gitbook/assets/creativecommon.png)
 
 Distributed under **CC BY-ND 4.0** licence
 
-## Binwell’s Guide {#binwells-guide}
+## Binwell’s Guide 
 
-## Software Design of Mobile Applications {#architectures-of-reactnative-xamarin-phonegap-qt}
+## Software Design of Mobile Applications 
 
 This guide will cover documentation required for painless development of mobile applications. With samples on Xamarin.Forms
 
-#### Special thanks to {#special-thanks-to}
+#### Special thanks to
 
-#### **HELP US IMPROVE THE GUIDE AND FIND YOUR NAME HERE!** {#special-thanks-to}
+#### **HELP US IMPROVE THE GUIDE AND FIND YOUR NAME HERE!**
 
-### About the author and Binwell {#about-the-author-and-binwell}
+### About the author and Binwell 
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJ4dIEM8s8PeYGDa5Lm%2F-LJ4zzEQ267CXRky8WSr%2F-LJ4zzfZ0RmE1SR_YvfP%2Fimage33png.png?generation=1533403989334352&alt=media)
+![](.gitbook/assets/binwell.png)
 
 At [**Binwell**](https://binwell.com/), we create mobile applications and cloud-based services using Xamarin and Azure. We develop the full cycle: business analytics, design, coding, testing, publishing, and development. The key activities are: implementation of complex solutions based on cloud and mobile technologies, as well as implementation of integration projects based on Azure cloud platform. We focused on the .NET stack, we are Microsoft Azure Partner and Xamarin Certified Partner.
 
